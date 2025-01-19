@@ -1,1 +1,1 @@
-# tamim
+# Tamim Iqbal khan
