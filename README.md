@@ -1,6 +1,30 @@
-# Tamim Iqbal khan
-Tamim Iqbal was already one of Bangladesh's most assured batsmen at the time of his 21st birthday, and will be a vital component at the top of the order for years to come. His promise was apparent when, batting for the Under-19s against England at the end of 2005, he smashed 112 from just 71 balls to help Bangladesh cruise to victory. The left-hander is regarded as one of the most exciting prospects in Bangladesh cricket and is arguably the hardest hitter of the cricket ball in the country. His elegance and style through the off side is a treat to watch but his trademark shot is the straight drive, capped with a text-book like follow-through.
+#  **Tamim Iqbal's Batting Career Analysis Dashboard in Power BI**
 
-Tamim is the younger brother of Bangladesh international Nafis Iqbal Khan and nephew of former Bangladesh skipper Akram Khan. He made his one-day debut against Zimbabwe in February 2007 and was included in the World Cup squad after playing just two matches. His straight six off Zaheer Khan after skipping down the track was one of the best shots of the tournament. He scored a stylish 84 in his debut Test, against New Zealand in Dunedin and has since firmly established his spot at the top of the order. His maiden century came in 2009 against West Indies in St Vincent, a match-winning effort. He then set a national record against Zimbabwe in Bulawayo when he blasted an unbeaten 154 in a tall chase.
+# **Batting Career Analysis Dashboard in Power BI**
 
-Tamim has found England's bowling attack particularly to his liking, and a superb run of form against them in two series, home and away, lead to five scores of more than fifty in six Test innings, culminating in his stunning 103 at Lord's in May 2010.
+This project showcases an interactive Power BI dashboard analyzing the illustrious batting career of Tamim Iqbal, one of Bangladesh's greatest cricketers. The dashboard provides deep insights into his performances across all three international formats—Test, ODI, and T20—using dynamic and visually engaging analytics.
+
+## **Features of the Dashboard**
+
+### **1. Interactive Navigation**
+- A central **Home Page** connects all dashboards, offering an overview of Tamim Iqbal's career highlights and quick access to format-specific analysis.
+- Users can seamlessly navigate between Test, ODI, and T20 dashboards for detailed exploration.
+
+### **2. Advanced Filtering Options**
+- **Year Slider**: Select specific years to view Tamim's batting performances during that period.
+- **Opposition Slider**: Easily analyze his statistics against various teams.
+- **Ground Slider**: Identify venues where Tamim has excelled and delivered standout performances.
+
+### **3. Visual Insights**
+- **Home and Away Performance**: A **donut chart** displays Tamim’s runs, highlighting home vs. away contributions.
+- **Boundary Analysis**: Breakdown of sixes and fours based on opposition and venue.
+- **Yearly Runs**: A **stacked area chart** visualizes runs scored over the years, showing trends and peak performances.
+- **Opposition-Wise Performance**: A **stacked bar chart** reveals his runs scored against each team, helping fans identify his favorite opponents.
+
+### **4. Format-Specific Dashboards**
+- **Test Dashboard**: Includes strike rates, centuries, and series-wise performance in Test cricket.
+- **ODI Dashboard**: Highlights his contributions in ODIs with opponent and venue analysis.
+- **T20 Dashboard**: Focuses on Tamim’s explosive batting in T20 internationals, including key innings and scoring patterns.
+
+## **Key Benefits**
+This dashboard is a comprehensive analytical tool for cricket fans, statisticians, and analysts, offering a detailed look at Tamim Iqbal’s career milestones, trends, and consistency. With dynamic visualizations and interactive filters, it allows users to uncover fascinating insights about one of Bangladesh’s cricketing legends.
